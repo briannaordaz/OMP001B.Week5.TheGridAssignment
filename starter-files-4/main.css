@@ -42,12 +42,13 @@ header {
 }
 
 main {
-
+	background-color: pink;
 }
 
 p {
 	line-height: 140%;
 	margin-bottom: 1em;
+	font-size: small;
 }
 
 #intro {
@@ -56,14 +57,16 @@ p {
 
 #automotive, #maritime, #medical, #physics, #myths {
 	flex-direction: row;
+	font-size: medium;
 }
 
 #footer-container {
 	text-align: center;
+	background-color: lightblue;
 }
 
 #header-container {
-	
+	background-color: lightsalmon;
 }
 
 #main-container {
