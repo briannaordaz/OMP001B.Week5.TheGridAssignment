@@ -55,7 +55,7 @@ p {
 }
 
 #automotive, #maritime, #medical, #physics, #myths {
-
+	flex-direction: row;
 }
 
 #footer-container {
